@@ -1,0 +1,4 @@
+#Mon Apr 13 16:04:17 EAT 2020
+base.0=C\:\\Users\\Patrick Kibet\\AndroidStudioProjects\\EarthQuakeTracker\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
